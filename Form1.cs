@@ -27,5 +27,10 @@ namespace Git_Ex1
 			
 			// Segunda modificación 2016 en clase
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("ERROR", "MUNDO NOT FOUND", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+        }
     }
 }

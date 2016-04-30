@@ -1,0 +1,3 @@
+He añadido: 
+
+ MessageBox.Show("ERROR", "MUNDO NOT FOUND", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
